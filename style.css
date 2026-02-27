@@ -47,3 +47,7 @@ a{
     font-size: 20px;
     font-weight: 500;
 }
+
+.navbar ul li:hover a{
+  color: #7cf03b;
+}
