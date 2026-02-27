@@ -37,3 +37,8 @@ a{
 .navbar ul{
     display: flex;
 }
+
+.navbar ul li{
+    list-style: none;
+    margin-left: 35px;
+}
