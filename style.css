@@ -42,3 +42,8 @@ a{
     list-style: none;
     margin-left: 35px;
 }
+
+.navbar ul li a{
+    font-size: 20px;
+    font-weight: 500;
+}
